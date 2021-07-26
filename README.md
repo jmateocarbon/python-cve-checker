@@ -96,7 +96,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 2. Install python packages
    ```sh
-   pip install -r requiremtns.txt
+   pip install -r requirements.txt
    ```
 
 <!-- USAGE EXAMPLES -->
